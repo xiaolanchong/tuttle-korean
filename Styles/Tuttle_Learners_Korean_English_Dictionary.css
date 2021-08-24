@@ -1,310 +1,318 @@
-body {font-size: 1.0em;}
+body {
+  font-size: 1.0em; 
+  background-color: #101010;
+  color: /*#ECDBBA*/ white;
+}
+
 p {font-size: 1.0em;}
 
 .textStyle0 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 305%;
+	/* font-size: 305%; */
 }
 
 .textStyle1 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 368%;
+	/* font-size: 368%; */
 	color: #808080;
 }
 
 .textStyle2 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 311%;
+	/* font-size: 311%; */
 	font-weight: bold;
 }
 
 .textStyle3 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 141%;
+	/* font-size: 141%; */
 }
 
 .textStyle4 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 565%;
+	/* font-size: 565%; */
 }
 
 .textStyle5 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 682%;
+	/* font-size: 682%; */
 	color: #808080;
 }
 
 .textStyle6 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 576%;
+	/* font-size: 576%; */
 	font-weight: bold;
 }
 
 .textStyle7 {
 	font-family: 'Lexus Roman Opti-Book', Lexus, sans-serif;
-	font-size: 141%;
+	/* font-size: 141%; */
 }
 
 .textStyle8 {
 	font-family: 'Lexus Roman Opti-Book', Lexus, sans-serif;
-	font-size: 118%;
+	/* font-size: 118%; */
 }
 
 .textStyle9 {
 	font-family: 'Lexus Roman Opti-Regular', Lexus, sans-serif;
-	font-size: 118%;
+	/* font-size: 118%; */
 }
 
 .textStyle10 {
 	font-family: 'Lexus Roman Opti-Regular', Lexus, sans-serif;
-	font-size: 95%;
+	/* font-size: 95%; */
 }
 
 .textStyle11 {
 	font-family: 'Trajan-Regular', Trajan, serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 }
 
 .textStyle12 {
 	font-family: 'Perpetua', Perpetua, serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 }
 
 .textStyle13 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 112%;
+	/* font-size: 112%; */
 }
 
 .textStyle14 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 112%;
+	/* font-size: 112%; */
 	font-weight: bold;
 }
 
 .textStyle15 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 141%;
+	/* font-size: 141%; */
 	font-weight: bold;
 }
 
 .textStyle16 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 176%;
+	/* font-size: 100%; */
 	font-weight: bold;
 }
 
 .textStyle17 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 141%;
+	/* font-size: 100%; */
 }
 
 .textStyle18 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 118%;
+	/* font-size: 118%; */
 	font-weight: bold;
 }
 
 .textStyle19 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 106%;
+	/* font-size: 100%; */
 	font-weight: bold;
 }
 
 .textStyle20 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 118%;
+	/* font-size: 100%; */
 }
 
 .textStyle21 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 }
 
 .textStyle22 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 282%;
+	/* font-size: 282%; */
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle23 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 188%;
+	/* font-size: 188%; */
 	font-weight: bold;
 }
 
 .textStyle24 {
 	font-family: 'AdobeMyungjoStd-Medium', Apple, sans-serif;
-	font-size: 110%;
+	/* font-size: 110%; */
 	color: #00aeef;
 }
 
 .textStyle25 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 94%;
+	/* font-size: 94%; */
 }
 
 .textStyle26 {
 	font-family: 'Helvetica-Bold', Helvetica, sans-serif;
-	font-size: 94%;
+	/* font-size: 94%; */
 	font-weight: bold;
 }
 
 .textStyle27 {
 	font-family: 'Apple Myungjo', Apple, sans-serif;
-	font-size: 427%;
+	/* font-size: 427%; */
 	color: #00aeef;
 }
 
 .textStyle28 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 97%;
+	/* font-size: 97%; */
 	font-weight: bold;
 }
 
 .textStyle29 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 97%;
+	/* font-size: 97%; */
 }
 
 .textStyle30 {
 	font-family: 'Apple Myungjo', Apple, sans-serif;
-	font-size: 435%;
+	/* font-size: 435%; */
 	color: #00aeef;
 }
 
 .textStyle31 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 88%;
+	/* font-size: 88%; */
 }
 
 .textStyle32 {
 	font-family: 'Times New Roman PS-Italic MT', Times, serif;
-	font-size: 118%;
+	/* font-size: 118%; */
 	font-style: italic;
 }
 
 .textStyle33 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 129%;
+	/* font-size: 129%; */
 	font-weight: bold;
 }
 
 .textStyle34 {
 	font-family: 'Apple Myungjo', Apple, sans-serif;
-	font-size: 388%;
+	/* font-size: 388%; */
 	color: #00aeef;
 }
 
 .textStyle35 {
 	font-family: 'Apple Myungjo', Apple, sans-serif;
-	font-size: 340%;
+	/* font-size: 340%; */
 	color: #00aeef;
 }
 
 .textStyle36 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 71%;
+	/* font-size: 71%; */
 }
 
 .textStyle37 {
 	font-family: 'AdobeMyungjoStd-Medium', Apple, sans-serif;
-	font-size: 110%;
+	/* font-size: 110%; */
 }
 
 .textStyle38 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 124%;
+	/* font-size: 124%; */
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle39 {
 	font-family: 'AdobeMyungjoStd-Medium', Adobe, serif;
-	font-size: 129%;
+	/* font-size: 129%; */
 	color: #00aeef;
 }
 
 .textStyle40 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 }
 
 .textStyle41 {
 	font-family: 'AdobeMyungjoStd-Medium', Adobe, serif;
-	font-size: 95%;
+	/* font-size: 95%; */
 }
 
 .textStyle42 {
 	font-family: 'AdobeMyungjoStd-Medium', Adobe, serif;
-	font-size: 95%;
-	color: #00aeef;
+	/* font-size: 95%; */
+	color: #7FC8A9; /* #00aeef; */
 }
 
+/* example translation, hanja translation */
 .textStyle43 {
 	font-family: 'Times New Roman PS-Italic MT', Times, serif;
-	font-size: 100%;
-	font-style: italic;
+	/*font-size: 100%;*/
+	/*font-style: italic;*/
+  font-size: smaller;
+  color: lightgray;
 }
 
 .textStyle44 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 75%;
+	/* font-size: 75%; */
 	font-weight: bold;
 }
 
 .textStyle45 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 85%;
+	/* font-size: 85%; */
 }
 
 /* hangul romanization, not needed */
 .textStyle46 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 	font-weight: bold;
 	display: none;
 }
 
 .textStyle47 {
 	font-family: 'Zapf Dingbats ITC', Zapf, sans-serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 }
 
 .textStyle48 {
 	font-family: 'Times New Roman PS-Italic MT', Times, serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 	font-style: italic;
 }
 
 .textStyle49 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 79%;
+	/* font-size: 79%; */
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle50 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 106%;
+	/* font-size: 106%; */
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle51 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 82%;
+	/* font-size: 82%; */
 }
 
 .textStyle52 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 79%;
+	/* font-size: 79%; */
 }
 
 /* romanization in header, not needed */
 .textStyle53 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 118%;
+	/* font-size: 118%; */
 	font-weight: bold;
 	color: #00aeef;
 	display: none;
@@ -313,64 +321,66 @@ p {font-size: 1.0em;}
 /* hangul, header */
 .textStyle54 {
 	font-family: 'AdobeMyungjoStd-Medium', Adobe, serif;
-	font-size: 115%;
-	color: brown; /* #00aeef; */
+	/* font-size: 115%; */
+	color: #C84B31; /* #00aeef; */
 	font-weight: 500;
 }
 
 .textStyle55 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 82%;
+	/* font-size: 82%; */
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle56 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 85%;
+	/* font-size: 85%; */
 	font-weight: bold;
 	color: #00aef2;
 }
 
+/* idioms, romanization */
 .textStyle57 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 	font-weight: bold;
 	color: #00aeef;
+	display: none;
 }
 
 .textStyle58 {
 	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 	color: #00aeef;
 }
 
 .textStyle59 {
 	font-family: 'Helvetica-Bold', Helvetica, sans-serif;
-	font-size: 82%;
+	/* font-size: 82%; */
 	font-weight: bold;
 }
 
 .textStyle60 {
 	font-family: 'Zapf Dingbats ITC', Zapf, sans-serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 }
 
 .textStyle61 {
 	font-family: 'Times New Roman PS-Bold Italic MT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 	font-weight: bold;
 	font-style: italic;
 }
 
 .textStyle62 {
 	font-family: 'Helvetica', Helvetica, sans-serif;
-	font-size: 82%;
+	/* font-size: 82%; */
 }
 
 .textStyle63 {
 	font-family: 'Times New Roman PS-Italic MT', Times, serif;
-	font-size: 100%;
+	/* font-size: 100%; */
 	font-style: italic;
 	color: #00aeef;
 }
@@ -381,7 +391,8 @@ p {font-size: 1.0em;}
 font-family: "AdobeMyungjoStd-Medium"; 
 font-weight: normal; 
 font-style: normal; 
-src:url(../Fonts/AdobeMyungjoStd-Medium.ttf); 
+src: 
+     url(../Fonts/AdobeMyungjoStd-Medium.ttf), local("Verdana");
 } 
 
 
@@ -508,7 +519,7 @@ div.side-margin{margin-left: 1em; margin-right: 1em; text-align: justify; line-h
 .rv2 {
   display: block;
   margin-bottom: 0em;
-  margin-top: 0em;
+  margin-top: 0.5em;
   margin-left: 3em;
   margin-right: 0;
   text-indent: -1.5em
@@ -549,7 +560,7 @@ div.side-margin{margin-left: 1em; margin-right: 1em; text-align: justify; line-h
 .frt{float: right; margin-left: 1em;}
 div.bx1{background-color: #e7e7e8; margin-bottom: 0.50em; margin-top: 1em; padding-left: 0.50em; padding-right: 0.50em; padding-top: 0.50em; padding-bottom: 0.50em;}
 
-.nbx1{background-color: #c7eafc; margin-bottom: 0.50em; margin-top: 1em; padding-left: 0.50em; padding-right: 0.50em; padding-top: 0.50em; padding-bottom: 0.50em; margin-left: 1.5em;}
+.nbx1{background-color: #373738; margin-bottom: 0.50em; margin-top: 1em; padding-left: 0.50em; padding-right: 0.50em; padding-top: 0.50em; padding-bottom: 0.50em; margin-left: 1.5em;}
 
 .bx{border-bottom: solid 1px; margin-top: 5em;  margin-bottom: 0em; width: 50%;}
 
