@@ -258,10 +258,12 @@ p {font-size: 1.0em;}
 	font-size: 85%;
 }
 
+/* hangul romanization, not needed */
 .textStyle46 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
 	font-size: 100%;
 	font-weight: bold;
+	display: none;
 }
 
 .textStyle47 {
@@ -299,17 +301,20 @@ p {font-size: 1.0em;}
 	font-size: 79%;
 }
 
+/* romanization in header, not needed */
 .textStyle53 {
 	font-family: 'Times New Roman PS-Bold MT', Times, serif;
 	font-size: 118%;
 	font-weight: bold;
 	color: #00aeef;
+	display: none;
 }
 
+/* hangul, header */
 .textStyle54 {
 	font-family: 'AdobeMyungjoStd-Medium', Adobe, serif;
 	font-size: 115%;
-	color: #00aeef;
+	color: brown; /* #00aeef; */
 	font-weight: 500;
 }
 
