@@ -1,81 +1,85 @@
-body {font-size: 1.0em;}
-p {font-size: 1.0em;}
+body {
+  font-family: "Tahoma", "Verdana", sans-serif;
+  background-color: #101010;
+  color: /*#ECDBBA*/ white;
+}
 
 .textStyle0 {
-	font-family: 'Helvetica-Bold', Helvetica, sans-serif;
-	font-size: 133%;
+	
+	
 	font-weight: bold;
 }
 
 .textStyle1 {
-	font-family: 'Helvetica-Bold', Helvetica, sans-serif;
-	font-size: 89%;
+	font-size: small;
 	font-weight: bold;
 	color: #00aeef;
 }
 
 .textStyle2 {
-	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 94%;
+	
+	
 	font-weight: bold;
 	color: #00aeef;
+  display: none;
 }
 
 .textStyle3 {
-	font-family: 'AdobeMyungjoStd-Medium', Apple, sans-serif;
-	font-size: 100%;
-	color: #00aeef;
+	
+	font-size: large;
+	color: brown;
 }
 
 .textStyle4 {
-	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 94%;
+	color: lightgray;
+	
 }
 
 .textStyle5 {
-	font-family: 'Times New Roman PS-Bold MT', Times, serif;
-	font-size: 94%;
+	
+	
 	font-weight: bold;
+  display: none;
 }
 
 .textStyle6 {
-	font-family: 'AdobeMyungjoStd-Medium', Apple, sans-serif;
-	font-size: 100%;
+	
+	
 	font-weight: 500;
 }
 
 .textStyle7 {
-	font-family: 'Helvetica-Bold', Helvetica, sans-serif;
-	font-size: 122%;
+	
+	
 	font-weight: bold;
     
 }
 
 .textStyle8 {
-	font-family: 'Times New Roman PS-Italic MT', Times, serif;
-	font-size: 94%;
+	
+	
 	font-style: italic;
 }
 
 .textStyle9 {
-	font-family: 'Futura-Heavy', Futura, sans-serif;
-	font-size: 189%;
+	
+	
 	color: #ff0000;
 }
 
 .textStyle10 {
-	font-family: 'Times New Roman PSMT', Times, serif;
-	font-size: 89%;
+	
+	
 }
 
-
+/*
 
 @font-face { 
-font-family: "AdobeMyungjoStd-Medium"; 
+
 font-weight: normal; 
 font-style: normal; 
 src:url(../Fonts/AdobeMyungjoStd-Medium.ttf); 
-} 
+} */
 
 
 div.side-margin{margin-left: 1em; margin-right: 1em; text-align: justify; line-height: 1;}
@@ -160,7 +164,7 @@ div.side-margin{margin-left: 1em; margin-right: 1em; text-align: justify; line-h
   margin-bottom: 0em;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0em;
+  margin-top: 0.2em;
   text-indent: 0em
   }
 
@@ -243,4 +247,4 @@ div.bx1{background-color: #e7e7e8; margin-bottom: 0.50em; margin-top: 1em; paddi
 
 .head1{ text-align: center; margin-top: 4em; margin-bottom: 3em; }
 
-sup.stx{font-size: 60%;}
+sup.stx{
