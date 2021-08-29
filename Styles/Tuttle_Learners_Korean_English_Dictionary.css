@@ -251,7 +251,7 @@ body {
 }
 
 .textStyle45 {
-	
+	text-transform: lowercase;
 	font-size: small;
   color: gray;
 }
